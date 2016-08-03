@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/HiPlayDemo/libs/jackson-core-asl-1.9.7.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/HiPlayDemo/libs/jackson-mapper-asl-1.9.7.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/HiPlayDemo/libs/ksoap2-android-assembly-2.4-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/HiPlayDemo/libs/org.apache.httpcomponents.httpclient_4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/HiPlayDemo/libs/javastruct-0.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/workspace/HiPlayDemo/libs/javolution-core-java-6.1.0-20140103.154957-9.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
